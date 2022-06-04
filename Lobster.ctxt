@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Lobster
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Lobster\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=int\ getLobsterWorms()
+comment2.params=val
+comment2.target=void\ setLobsterWorms(int)
+comment3.params=
+comment3.target=void\ act()
+numComments=4
